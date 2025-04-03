@@ -12,7 +12,7 @@
       "name": "츄르 놀이터",
       "description": "chur Running Minecraft 1.20.1 (Fabric v0.16.12)",
       "icon": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servericon.png",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "yeotu.kro.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -244,6 +244,26 @@
             "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/files/config/xaerominimap.txt",
             "MD5": "9c0475d88449c799c48e92d595d879e8",
             "path": "config/xaerominimap.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5673,
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 134,
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/files/servers.dat",
+            "path": "servers.dat"
           }
         },
         {
