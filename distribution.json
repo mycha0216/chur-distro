@@ -12,7 +12,7 @@
       "name": "츄르 놀이터",
       "description": "chur Running Minecraft 1.20.1 (Fabric v0.16.12)",
       "icon": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servericon.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "yeotu.kro.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
