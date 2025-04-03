@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1387601,
             "MD5": "e462a4911469a9816029b95eaae5bdb0",
-            "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/repo/lib/net/fabricmc/fabric-loader/0.16.12/fabric-loader-0.16.12.jar"
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/repo/lib/net/fabricmc/fabric-loader/0.16.12/fabric-loader-0.16.12.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2859,
                 "MD5": "afed2e75e32fd5e320bddcfdb1d4001a",
-                "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/repo/versions/1.20.1-fabric-0.16.12/1.20.1-fabric-0.16.12.json"
+                "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/repo/versions/1.20.1-fabric-0.16.12/1.20.1-fabric-0.16.12.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 573365,
                 "MD5": "3f4768ac751cac3418266d1d7aa15f55",
-                "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+                "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 394652,
-            "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/servers/chur-1.20.1/fabricmods/required/CITResewn-1.1.3+1.20.jar",
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/fabricmods/required/CITResewn-1.1.3+1.20.jar",
             "MD5": "ea52600e98699fa67784591c02940ffc"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2059852,
-            "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/servers/chur-1.20.1/fabricmods/required/fabric-api-0.90.7+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/fabricmods/required/fabric-api-0.90.7+1.20.1.jar",
             "MD5": "7e79e50da607e30d5889cb58806db081"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 397198,
-            "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/servers/chur-1.20.1/fabricmods/required/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar",
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/fabricmods/required/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar",
             "MD5": "9b680a583230400e887dc545aa974936"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 123781,
-            "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/servers/chur-1.20.1/fabricmods/required/Iceberg-1.20.1-fabric-1.1.18.jar",
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/fabricmods/required/Iceberg-1.20.1-fabric-1.1.18.jar",
             "MD5": "6ea7e424f1c45e2bd6ac84b2e1b8955a"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2668790,
-            "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/servers/chur-1.20.1/fabricmods/required/iris-1.7.0+mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/fabricmods/required/iris-1.7.0+mc1.20.1.jar",
             "MD5": "4fffc15dba4b021e626beea0ec00099b"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 448094,
-            "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/servers/chur-1.20.1/fabricmods/required/koreanpatch-fabric-1.6.13+mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/fabricmods/required/koreanpatch-fabric-1.6.13+mc1.20.1.jar",
             "MD5": "6e20891b8d2b8770569f819d4e765c4d"
           }
         },
@@ -181,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 63969,
-            "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/servers/chur-1.20.1/fabricmods/required/LegendaryTooltips-1.20.1-fabric-1.4.5.jar",
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/fabricmods/required/LegendaryTooltips-1.20.1-fabric-1.4.5.jar",
             "MD5": "da13b6865a45746799f4465409509a52"
           }
         },
@@ -191,7 +191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 57258,
-            "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/servers/chur-1.20.1/fabricmods/required/Prism-1.20.1-fabric-1.0.4.jar",
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/fabricmods/required/Prism-1.20.1-fabric-1.0.4.jar",
             "MD5": "3e1c45f3fcc6b51f7acb471b3e1a4919"
           }
         },
@@ -201,7 +201,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 942134,
-            "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/servers/chur-1.20.1/fabricmods/required/sodium-fabric-0.5.8+mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/fabricmods/required/sodium-fabric-0.5.8+mc1.20.1.jar",
             "MD5": "68e366d87fa5c614d64ce031ff548e30"
           }
         },
@@ -211,7 +211,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8092038,
-            "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/servers/chur-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.27.jar",
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.27.jar",
             "MD5": "7377aba366b2e256c687c7cb556d4a2b"
           }
         },
@@ -221,7 +221,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1702458,
-            "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/servers/chur-1.20.1/fabricmods/required/Xaeros_Minimap_25.1.0_Fabric_1.20.jar",
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/fabricmods/required/Xaeros_Minimap_25.1.0_Fabric_1.20.jar",
             "MD5": "e6e88b520ee5fda4666a1a46a30513ff"
           }
         },
@@ -231,7 +231,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 951657,
-            "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/servers/chur-1.20.1/fabricmods/required/XaerosWorldMap_1.39.4_Fabric_1.20.jar",
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/fabricmods/required/XaerosWorldMap_1.39.4_Fabric_1.20.jar",
             "MD5": "6f85dec84a60c5909f1ce7337768fef3"
           }
         },
@@ -241,7 +241,7 @@
           "type": "File",
           "artifact": {
             "size": 3640,
-            "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/servers/chur-1.20.1/files/config/xaerominimap.txt",
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/files/config/xaerominimap.txt",
             "MD5": "9c0475d88449c799c48e92d595d879e8",
             "path": "config/xaerominimap.txt"
           }
@@ -252,7 +252,7 @@
           "type": "File",
           "artifact": {
             "size": 932543,
-            "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/servers/chur-1.20.1/files/shaderpacks/BSL_v8.2.04.zip",
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/files/shaderpacks/BSL_v8.2.04.zip",
             "MD5": "9b7be3e5521d70f9ffa0aa19d8b484cc",
             "path": "shaderpacks/BSL_v8.2.04.zip"
           }
@@ -263,7 +263,7 @@
           "type": "File",
           "artifact": {
             "size": 402260,
-            "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/servers/chur-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.0.zip",
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.0.zip",
             "MD5": "ed23ab2aec668be0909b0d9e1db30343",
             "path": "shaderpacks/ComplementaryReimagined_r5.0.zip"
           }
@@ -274,7 +274,7 @@
           "type": "File",
           "artifact": {
             "size": 11977,
-            "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/servers/chur-1.20.1/files/shaderpacks/EclecticTrove-1.20.1-1.3.0.zip",
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/files/shaderpacks/EclecticTrove-1.20.1-1.3.0.zip",
             "MD5": "3f57b06130188b2216eb340ad8b4182f",
             "path": "shaderpacks/EclecticTrove-1.20.1-1.3.0.zip"
           }
@@ -285,7 +285,7 @@
           "type": "File",
           "artifact": {
             "size": 1184526,
-            "url": "https://raw.githubusercontent.com/dlworn5434/chur-distro/main/servers/chur-1.20.1/files/shaderpacks/Solas%20V1.6.zip",
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/files/shaderpacks/Solas%20V1.6.zip",
             "MD5": "294705fccf758eff2c91ab42f2f41d89",
             "path": "shaderpacks/Solas V1.6.zip"
           }
