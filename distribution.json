@@ -12,7 +12,7 @@
       "name": "츄르 놀이터",
       "description": "chur Running Minecraft 1.20.1 (Fabric v0.16.12)",
       "icon": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servericon.png",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "yeotu.kro.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -181,8 +181,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 63969,
-            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/fabricmods/required/LegendaryTooltips-1.20.1-fabric-1.4.5.jar",
+            "url": "https://raw.githubusercontent.com/mycha0216/chur-distro/main/servers/chur-1.20.1/fabricmods/optionaloff/LegendaryTooltips-1.20.1-fabric-1.4.5.jar",
             "MD5": "da13b6865a45746799f4465409509a52"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
